@@ -76,7 +76,7 @@ export const projects = [
     des: "developed a portfolio website leveraging ReactJS, Next.js, and Tailwind CSS, achieving a flawless UI/UX design",
     img: "/protpic.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg","/re.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    link: "https://github.com/awarepenguin70/portfolio",
   },
   {
     id: 2,
