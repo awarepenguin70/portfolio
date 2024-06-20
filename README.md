@@ -14,6 +14,8 @@ pnpm dev
  or
 bun dev
 
+# Suggestion
+  clone repo and install dependencies (npm install) and run if the link isnt wokring thank u:)
 
 Open your browser and navigate to http://localhost:3000 to see your project in action.
 
