@@ -1,4 +1,4 @@
-My Next.js Project
+# My Next.js Project
 Welcome to your new Next.js project, bootstrapped with create-next-app. Get ready to build something amazing!
 
 🚀 Getting Started
